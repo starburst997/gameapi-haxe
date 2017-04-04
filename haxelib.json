@@ -5,7 +5,7 @@
   "tags": [],
   "description" : "Playtomic",
   "version" : "0.0.1",
-  "classPath": "src/",
+  "classPath": "",
   "releasenote" : "",
   "contributors" : [],
   "dependencies" : {}
