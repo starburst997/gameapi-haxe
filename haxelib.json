@@ -1,0 +1,12 @@
+{
+  "name" : "playtomic",
+  "url" : "https://github.com/starburst997/gameapi-haxe",
+  "license" : "MIT",
+  "tags": [],
+  "description" : "Playtomic",
+  "version" : "0.0.1",
+  "classPath": "src/",
+  "releasenote" : "",
+  "contributors" : [],
+  "dependencies" : {}
+}
